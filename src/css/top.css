@@ -1,0 +1,9 @@
+
+.top-container {
+    position:fixed;
+    width: 100%;
+    color:rgb(192, 52, 52);
+    padding: 10px;
+    background-color:#ffffff;
+    box-shadow: 2px 2px 15px 1px #cbcbcb;
+}

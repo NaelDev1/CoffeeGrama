@@ -1,0 +1,8 @@
+.container{
+    width: 5000px;
+    height: 5000px;
+    display: flex;
+    background-color: rgba(113, 115, 119, 0.541);
+    cursor: grab;
+}
+
